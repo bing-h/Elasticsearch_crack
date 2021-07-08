@@ -1,0 +1,13 @@
+{
+    "license": {
+        "uid": "13370dd7-23e4-4470-ad2a-ccacb620f60a",
+        "type": "enterprise",
+        "issue_date_in_millis": 1563235200000,
+        "expiry_date_in_millis": 1807746200000,
+	    "max_resource_units":100,
+        "issued_to": "117503445",
+        "issuer": "Web Form",
+	    "signature":"AAAABQAB",
+        "start_date_in_millis": 1563235200000
+    }
+}
